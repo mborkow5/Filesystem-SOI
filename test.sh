@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # setup disk and test file
 cc main.cpp -o test_compiled -lm
